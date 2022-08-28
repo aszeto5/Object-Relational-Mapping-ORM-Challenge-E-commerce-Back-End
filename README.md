@@ -12,4 +12,4 @@ Your challenge is to build the back end for an e-commerce site. You’ll take a 
 * sequelize
 
 ## Usage
-E-Commerce back end walkthrough: 
+E-Commerce back end walkthrough: https://drive.google.com/file/d/1RxGEKksWVhGs3IGdfuIedF0YLIN-pP4b/view
